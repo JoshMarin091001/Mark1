@@ -1,0 +1,10 @@
+¡Bienvenido al primer capítulo de SQL! 
+
+SQL abreviatura de ( Structured Query Language ) es un lenguaje de programación diseñado para administrar y recuperar datos almacenados en bases de datos.
+Es un elemento básico tanto en la ciencia de datos como en el desarrollo web.
+Dato curioso: SQL fue desarrollado en IBM en los años 70 y se llamó SEQUEL ( Structured English Query Language ) ; puedes llamarlo “SQL” o “Sequel.”
+
+                                                      "Las bases de datos SQL son colecciones de tablas, con filas y columnas."
+
+CONSULTA:
+           SELECT * FROM (Nombre de la Tabla);   #Con esta CONSULTA se muestra completamente la TABLA y su CONTENIDO. 
